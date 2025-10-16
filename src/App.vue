@@ -1,6 +1,13 @@
 <template>
   <div class="container">
     <header class="header">
+      <div class="logo-container">
+        <img
+          src="/assets/images/mala-logo-80.png"
+          alt="麻辣仙人-aa Logo"
+          class="logo"
+        />
+      </div>
       <h1 class="title">麻辣仙人-aa</h1>
       <p class="subtitle">项目导航中心</p>
       <p class="author">作者：麻辣仙人-aa</p>

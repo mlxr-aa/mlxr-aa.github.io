@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-logos": "scripts/generate-logos.bat",
+    "generate-logos-linux": "scripts/generate-logos.sh"
   },
   "dependencies": {
     "vue": "^3.4.0"
